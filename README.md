@@ -4,14 +4,18 @@
 
 
 1. run commands in terminal
+
 mysql -u root -p
+
 CREATE DATABASE flask_db
 
 2. activate virtual environment and install packages
 
 
 3. in the root folder of the project with the virtual environment enabled (applying migrations)
+
 run command in terminal
+
 flask db upgrade
 
 
