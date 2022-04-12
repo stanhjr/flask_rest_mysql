@@ -20,7 +20,9 @@ flask db upgrade
 for local host  -> http://127.0.0.1:5000/doc
 
 **OS Ubuntu 20.04**
+
 **db Percona MySQL 8.0.23**
+
 **Python 3.6**
 
 
