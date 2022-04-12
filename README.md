@@ -21,7 +21,11 @@ for local host  -> http://127.0.0.1:5000/doc
 
 **OS Ubuntu 20.04**
 
-# The project features:
+**Configuration application**
+config.py
+
+
+# Project features:
 
 ● JWT token authentication 
 
